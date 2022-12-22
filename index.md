@@ -1,37 +1,37 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Estêvão Santos's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Estêvão José dos Santos
+Software Engineer | Python developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/ejs94">Github</a>
+| <a href="https://www.linkedin.com/in/estevaojsantos/">Linkedin</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+R&D Engineer @ FIT - Flextronics Institute of Technology
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Reinforcement Learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2015`
+__Control and Automation Engineering, UFLA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015 - 2019`
+__Control and Automation Engineering, UNIFEI__
 
 - Sizar
 
